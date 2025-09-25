@@ -108,3 +108,31 @@
     
 #25/09/2025
 
+# class greeting:
+#     def visit(self):
+#         print("hello sir")
+#     def exit(self):
+#         print("thank you visit again")
+# g1=greeting()
+# g1.exit()
+
+#to crate a class greeting to give the instructions to greeet the customer at vist the shop
+
+
+# class greeting:
+#     def __init__(self,name):
+#         self.name=name
+
+#     def visit(self,name):
+#         print(f"hello sir {name}")
+#     def exit(self):
+#         print(f"thank you {self.name}! visit again")
+# g1=greeting("sravan")
+# g1.visit("Rudra")
+# g1.exit()
+
+
+
+
+
+
