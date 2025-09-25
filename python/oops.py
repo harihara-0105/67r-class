@@ -132,7 +132,24 @@
 # g1.exit()
 
 
+# Ex
+
+# class clasi:
+#     def __init__(self,first,second):
+#         self.first=first
+#         self.second=second
+#     def addition(self):
+#         return self.first+self.second
+    
+#     def substraction
 
 
 
 
+
+# calsi=calsi(10,20)
+# print(calsi.addition())
+# print(calsi1.substraction(199,29))
+
+
+        
